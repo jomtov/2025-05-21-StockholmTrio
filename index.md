@@ -273,7 +273,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Sign up will open on October 7. <a href="https://www.kth.se/form/stockholm-trio-carpentries-november-2022">Please click here to sign up for the workshop.</a>
+  Sign up will open on May 5, 2025. <a href="https://su.se/dummy">Please click here to sign up for the workshop.</a>
 </p>
 
 {% comment%}
