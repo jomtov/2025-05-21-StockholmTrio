@@ -136,7 +136,6 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  <a href="https://www.kth.se/places/room/id/904be5b6-29e7-4388-8983-c8b25dc1b874">More information on the location.</a>
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
