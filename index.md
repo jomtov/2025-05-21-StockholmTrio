@@ -273,7 +273,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="sign-up">
   <strong>Sign up:</strong>
-  Sign up will open on May 5, 2025. <a href="https://su.se/dummy">Please click here to sign up for the workshop.</a>
+  Sign up will open on May 5, 2025. <a href="https://su.drive.sunet.se/apps/forms/s/aAXZFzStepC2zGAz3PmPQiTA">Please click here to sign up for the workshop.</a>
 </p>
 
 {% comment%}
